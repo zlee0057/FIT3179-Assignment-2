@@ -7,15 +7,17 @@ h1 {
     font-size: 40px;
     text-align: center;
     margin: 40px;
+    font-family: 'Tahoma', sans-serif;
 }
 
 h3 {
     text-align: left;
+    font-family: 'Tahoma', sans-serif;
 }
 
 p {
     text-align: left;
-    font-size: 16px;
+    font-size: 15px;
     text-align: justify;
 }
 
@@ -44,6 +46,10 @@ body {
 .item7 { grid-area: vis4; }
 .itemLast { grid-area: footer; }
 
+.vega-bind {
+    margin-top: 10px;
+}
+
 .grid-container {
   display: grid;
   grid-template-areas:
@@ -62,7 +68,7 @@ body {
   font-size: 16px;
 }
 
-#vis2 #vg-tooltip-element tr:nth-child(1) td:first-child {
+#vg-tooltip-element tr:nth-child(1) td:first-child {
     color: #2470d3
 }
 
