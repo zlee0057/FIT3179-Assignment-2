@@ -4,7 +4,19 @@ body *{
 
 h1 {
     font-weight: 900;
+    font-size: 40px;
     text-align: center;
+    margin: 40px;
+}
+
+h3 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+    font-size: 16px;
+    text-align: justify;
 }
 
 body {
@@ -12,35 +24,62 @@ body {
 }
 
 .page {
-    width: 850px;
-    background-color: white;
+    width: 900px;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     padding: 50px;
     padding-top: 35px;
 }
 
 .vis-container {
-    width: 100vw;
     max-width: 100%;
 }
 
-.description h2,
-h1 {
-    margin-top: 0px;
+.item1 { grid-area: header; }
+.item2 { grid-area: vis1; }
+.item3 { grid-area: desc1; }
+.item4 { grid-area: vis2; }
+.item5 { grid-area: desc2; }
+.item6 { grid-area: vis3; }
+.itemLast { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header header'
+    'vis1 vis1 vis1 vis1 vis1 vis1 vis1'
+    'desc1 desc1 desc1 vis2 vis2 vis2 vis2'
+    'desc2 desc2 desc2 vis3 vis3 vis3 vis3'
+    'footer footer footer footer footer footer footer';
+  gap: 30px;
+  padding: 10px;
 }
 
-.description-right {
-    padding-left: 20px;
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  font-size: 16px;
 }
 
-.description-left {
-    padding-right: 20px;
+#vg-tooltip-element tr:nth-child(1) td:first-child {
+    color: #2470d3
 }
 
-.pure-g {
-    margin-bottom: 40px;
+#vg-tooltip-element tr:nth-child(2) td:first-child {
+    color: #ffb43a
 }
 
-.small-font {
-    font-size: 14px;
+#vg-tooltip-element tr:nth-child(3) td:first-child {
+    color: #c92a2a
+}
+
+#vg-tooltip-element tr:nth-child(4) td:first-child {
+    color: #1aa5b2
+}
+
+#vg-tooltip-element tr:nth-child(5) td:first-child {
+    color: #069837
+}
+
+#vg-tooltip-element tr:nth-child(6) td:first-child {
+    color: #cbbf12
 }

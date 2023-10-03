@@ -2,9 +2,9 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "Net Migration Rate (Per 1000 Population) of Countries From 2000 to 2020",
-        "fontSize": 16
+        "fontSize": 18
     },
-    "width": 840,
+    "width": 868,
     "height": 500,
     "params": [
         {
@@ -23,7 +23,7 @@
     "layer": [
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Week-10-Homework/main/Choropleth_map/js/ne_110m_admin_0_countries.topojson",
+                "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/Choropleth_map/js/ne_110m_admin_0_countries.topojson",
                 "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
             },
             "transform": [
@@ -42,7 +42,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/Choropleth_map/data/country_data_2000_2020_cleaned.csv",
+                "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/country_data_2000_2020_cleaned.csv",
                 "format": {"type": "csv"}
             },
             "transform": [
@@ -50,7 +50,7 @@
                     "lookup": "ISO3_code",
                     "from": {
                         "data": {
-                            "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Week-10-Homework/main/Choropleth_map/js/ne_110m_admin_0_countries.topojson",
+                            "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/Choropleth_map/js/ne_110m_admin_0_countries.topojson",
                             "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
                         },
                         "key": "properties.GU_A3"
@@ -87,6 +87,17 @@
                     }
                 ]
             }
+        },
+        {
+          "data": { "values": [{"Time": "2020", "Event": "Covid-19"}] },
+          "mark": {"type": "text", "fontSize" : 16, "align" : "left", "fontWeight": "bold", "lineBreak": "\n"},
+          "encoding": {
+            "text": { "value": "Observation:\nCountries in Africa and the Middle East\nappear to have the most fluctuations in\nmigration rates." },
+            "color": { "value": "gray" },
+            "size": { "value": 12 },
+            "x": { "value": 20 },
+            "y": { "value": 350 }
+          }
         }
     ],
     "config": {
