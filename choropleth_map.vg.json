@@ -17,9 +17,44 @@
                 "step": 1,
                 "name": "Year: "
             }
+        },
+        {
+            "name": "zoom_level",
+            "value": 160,
+            "bind": {
+                "input": "range",
+                "min": 160,
+                "max": 800,
+                "step": 20,
+                "name": "Zoom: "
+            }
+        },
+        {
+            "name": "center_to",
+            "value": [0, 0],
+            "bind": {
+                "input": "select",
+                "options": [
+                    [0, 0],
+                    [15, 45],
+                    [15, 0],
+                    [60, 30],
+                    [115, 15],
+                    [130, -25],
+                    [-100, 50],
+                    [-90, 10],
+                    [-65, -20]
+                ],
+                "labels": ["Center", "Europe", "Africa", "Middle East Asia", "East Asia", "Oceania", "North America", "Central America", "South America"],
+                "name": "Map Centre: "
+            }
         }
     ],
-    "projection": {"type": "equalEarth"},
+    "projection": {
+        "type": "equalEarth",
+        "center": {"expr": "center_to"},
+        "scale": {"expr": "zoom_level"}
+    },
     "layer": [
         {
             "data": {
