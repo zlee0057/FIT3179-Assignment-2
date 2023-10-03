@@ -9,7 +9,7 @@
     "data": [
       {
         "name": "rawData",
-        "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/migrant_stock_region_data_2020.csv",
+        "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/migrant_stock_region_data_2020_cleaned.csv",
         "format": {"type": "csv", "parse": "auto"}
       },
       {
