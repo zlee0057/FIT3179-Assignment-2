@@ -1,0 +1,101 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/developmental_group_data_2000_2020_cleaned.csv"},
+    "width": 330,
+    "height": 190,
+    "title": {
+        "text": "Migration Flow by Development Group (2000-2020)",
+        "fontSize": 18
+    },
+    "encoding": {
+        "x": {
+            "field": "Time", 
+            "type": "temporal", 
+            "title": "Year"
+        }
+    },
+    "layer": [
+        {
+            "encoding": {
+                "color": {
+                    "field": "Location", 
+                    "type": "nominal",
+                    "title": "Development Groups",
+                    "scale": {
+                        "domain": [
+                            "More developed regions",
+                            "Less developed regions, excluding least developed countries",
+                            "Least developed countries"
+                        ]
+                    },
+                    "legend": {
+                        "labelExpr": "{'More developed regions': 'More developed', 'Less developed regions, excluding least developed countries': 'Less developed', 'Least developed countries': 'Least developed'}[datum.label]"
+                    }
+                },
+                "y": {
+                    "field": "NetMigrations", 
+                    "type": "quantitative",
+                    "title": "Net Number of Migrants (By thousands)"
+                }
+            },
+            "layer": [
+                {"mark": "line"},
+                {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
+            ]
+        },
+        {
+            "transform": [
+                {
+                    "pivot": "Location", 
+                    "value": "NetMigrations", 
+                    "groupby": ["Time"]
+                }
+            ],
+            "mark": "rule",
+            "encoding": {
+            "opacity": {
+                "condition": {"value": 0.3, "param": "hover", "empty": false},
+                "value": 0
+            },
+            "tooltip": [
+                {"field": "More developed regions", "title": "More developed countries"},
+                {"field": "Less developed regions, excluding least developed countries", "title": "Less developed countries"},
+                {"field": "Least developed countries", "title": "Least developed countries"}
+            ]
+            },
+            "params": [
+                {
+                    "name": "hover",
+                    "select": {
+                        "type": "point",
+                        "fields": ["Time"],
+                        "nearest": true,
+                        "on": "mouseover",
+                        "clear": "mouseout"
+                    }
+                }
+            ]
+        },
+        {
+          "data": { "values": [{"Time": "2020", "Event": "Covid-19"}] },
+          "mark": "text",
+          "encoding": {
+            "text": { "value": "Year of Covid-19" },
+            "color": { "value": "purple" },
+            "size": { "value": 12 },
+            "x": { "value": 280 },
+            "y": { "value": 70 }
+          }
+        },
+        {
+          "data": { "values": [{"Time": "2020"}] },
+          "mark": "rule",
+          "encoding": {
+            "color": {
+              "value": "purple"
+            },
+            "strokeDash": { "value": [2, 2] }
+          }
+        }
+    ]
+}

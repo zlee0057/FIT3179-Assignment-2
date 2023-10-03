@@ -1,0 +1,87 @@
+body *{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+    margin: 40px;
+}
+
+h3 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+    font-size: 16px;
+    text-align: justify;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.page {
+    width: 900px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 50px;
+    padding-top: 35px;
+}
+
+.vis-container {
+    max-width: 100%;
+}
+
+.item1 { grid-area: header; }
+.item2 { grid-area: vis1; }
+.item3 { grid-area: desc1; }
+.item4 { grid-area: vis2; }
+.item5 { grid-area: desc2; }
+.item6 { grid-area: vis3; }
+.item7 { grid-area: vis4; }
+.itemLast { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header header'
+    'vis1 vis1 vis1 vis1 vis1 vis1 vis1'
+    'desc1 desc1 desc1 vis2 vis2 vis2 vis2'
+    'desc2 desc2 desc2 vis3 vis3 vis3 vis3'
+    'vis4 vis4 vis4 vis4 vis4 vis4 vis4'
+    'footer footer footer footer footer footer footer';
+  gap: 30px;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  font-size: 16px;
+}
+
+#vis2 #vg-tooltip-element tr:nth-child(1) td:first-child {
+    color: #2470d3
+}
+
+#vg-tooltip-element tr:nth-child(2) td:first-child {
+    color: #ffb43a
+}
+
+#vg-tooltip-element tr:nth-child(3) td:first-child {
+    color: #c92a2a
+}
+
+#vg-tooltip-element tr:nth-child(4) td:first-child {
+    color: #1aa5b2
+}
+
+#vg-tooltip-element tr:nth-child(5) td:first-child {
+    color: #069837
+}
+
+#vg-tooltip-element tr:nth-child(6) td:first-child {
+    color: #cbbf12
+}

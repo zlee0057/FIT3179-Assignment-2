@@ -1,0 +1,127 @@
+Location,Time,NetMigrations,CNMR
+High-income countries,2000,3036.005,2.762
+High-income countries,2001,2745.906,2.483
+High-income countries,2002,3350.714,3.012
+High-income countries,2003,3441.24,3.074
+High-income countries,2004,3563.193,3.162
+High-income countries,2005,4268.05,3.764
+High-income countries,2006,5030.752,4.404
+High-income countries,2007,5836.583,5.07
+High-income countries,2008,5444.985,4.689
+High-income countries,2009,4583.553,3.915
+High-income countries,2010,3510.458,2.977
+High-income countries,2011,3953.756,3.333
+High-income countries,2012,3954.276,3.313
+High-income countries,2013,3724.515,3.102
+High-income countries,2014,3425.947,2.837
+High-income countries,2015,3926.786,3.235
+High-income countries,2016,3969.487,3.253
+High-income countries,2017,4295.975,3.502
+High-income countries,2018,4321.886,3.506
+High-income countries,2019,4105.259,3.314
+High-income countries,2020,788.024,0.634
+Middle-income countries,2000,-1535.187,-0.332
+Middle-income countries,2001,-2268.43,-0.484
+Middle-income countries,2002,-4327.706,-0.911
+Middle-income countries,2003,-3502.018,-0.728
+Middle-income countries,2004,-3104.624,-0.637
+Middle-income countries,2005,-4348.342,-0.881
+Middle-income countries,2006,-5515.473,-1.104
+Middle-income countries,2007,-5548.556,-1.097
+Middle-income countries,2008,-4972.946,-0.972
+Middle-income countries,2009,-4159.1,-0.803
+Middle-income countries,2010,-2873.179,-0.548
+Middle-income countries,2011,-3420.336,-0.645
+Middle-income countries,2012,-2424.713,-0.451
+Middle-income countries,2013,-1325.218,-0.244
+Middle-income countries,2014,-1471.118,-0.267
+Middle-income countries,2015,-2161.835,-0.388
+Middle-income countries,2016,-3228.906,-0.573
+Middle-income countries,2017,-2601.393,-0.457
+Middle-income countries,2018,-3080.165,-0.535
+Middle-income countries,2019,-3362.17,-0.578
+Middle-income countries,2020,-543.952,-0.093
+Upper-middle-income countries,2000,-953.809,-0.441
+Upper-middle-income countries,2001,-945.482,-0.434
+Upper-middle-income countries,2002,-707.083,-0.322
+Upper-middle-income countries,2003,-910.44,-0.411
+Upper-middle-income countries,2004,-618.519,-0.277
+Upper-middle-income countries,2005,-897.565,-0.399
+Upper-middle-income countries,2006,-1601.604,-0.707
+Upper-middle-income countries,2007,-1683.773,-0.738
+Upper-middle-income countries,2008,-505.668,-0.22
+Upper-middle-income countries,2009,-571.223,-0.246
+Upper-middle-income countries,2010,-176.834,-0.076
+Upper-middle-income countries,2011,-632.28,-0.269
+Upper-middle-income countries,2012,828.424,0.349
+Upper-middle-income countries,2013,1509.156,0.631
+Upper-middle-income countries,2014,1505.626,0.624
+Upper-middle-income countries,2015,1408.399,0.579
+Upper-middle-income countries,2016,-97.942,-0.04
+Upper-middle-income countries,2017,400.375,0.162
+Upper-middle-income countries,2018,603.333,0.243
+Upper-middle-income countries,2019,204.126,0.082
+Upper-middle-income countries,2020,676.452,0.269
+Lower-middle-income countries,2000,-581.378,-0.236
+Lower-middle-income countries,2001,-1322.948,-0.528
+Lower-middle-income countries,2002,-3620.623,-1.418
+Lower-middle-income countries,2003,-2591.578,-0.998
+Lower-middle-income countries,2004,-2486.105,-0.941
+Lower-middle-income countries,2005,-3450.777,-1.285
+Lower-middle-income countries,2006,-3913.869,-1.434
+Lower-middle-income countries,2007,-3864.783,-1.393
+Lower-middle-income countries,2008,-4467.278,-1.585
+Lower-middle-income countries,2009,-3587.877,-1.254
+Lower-middle-income countries,2010,-2696.345,-0.928
+Lower-middle-income countries,2011,-2788.056,-0.944
+Lower-middle-income countries,2012,-3253.137,-1.085
+Lower-middle-income countries,2013,-2834.374,-0.931
+Lower-middle-income countries,2014,-2976.744,-0.963
+Lower-middle-income countries,2015,-3570.234,-1.138
+Lower-middle-income countries,2016,-3130.964,-0.984
+Lower-middle-income countries,2017,-3001.768,-0.93
+Lower-middle-income countries,2018,-3683.498,-1.126
+Lower-middle-income countries,2019,-3566.296,-1.076
+Lower-middle-income countries,2020,-1220.404,-0.364
+Low-income countries,2000,-1505.845,-3.749
+Low-income countries,2001,-482.178,-1.171
+Low-income countries,2002,972.281,2.296
+Low-income countries,2003,58.024,0.133
+Low-income countries,2004,-456.041,-1.014
+Low-income countries,2005,90.42,0.195
+Low-income countries,2006,502.995,1.056
+Low-income countries,2007,-261.055,-0.531
+Low-income countries,2008,-437.266,-0.865
+Low-income countries,2009,-383.583,-0.737
+Low-income countries,2010,-594.427,-1.11
+Low-income countries,2011,-489.082,-0.888
+Low-income countries,2012,-1484.513,-2.621
+Low-income countries,2013,-2352.1,-4.046
+Low-income countries,2014,-1900.313,-3.189
+Low-income countries,2015,-1695.042,-2.774
+Low-income countries,2016,-464.64,-0.741
+Low-income countries,2017,-883.069,-1.371
+Low-income countries,2018,107.8,0.163
+Low-income countries,2019,226.292,0.333
+Low-income countries,2020,277.23,0.397
+No income group available,2000,5.036,0.203
+No income group available,2001,4.709,0.187
+No income group available,2002,4.715,0.183
+No income group available,2003,2.758,0.105
+No income group available,2004,-2.524,-0.095
+No income group available,2005,-10.123,-0.374
+No income group available,2006,-18.267,-0.663
+No income group available,2007,-26.968,-0.964
+No income group available,2008,-34.758,-1.223
+No income group available,2009,-40.857,-1.417
+No income group available,2010,-42.847,-1.466
+No income group available,2011,-44.332,-1.496
+No income group available,2012,-45.0,-1.499
+No income group available,2013,-47.181,-1.552
+No income group available,2014,-54.494,-1.77
+No income group available,2015,-69.888,-2.244
+No income group available,2016,-275.924,-8.768
+No income group available,2017,-811.502,-25.703
+No income group available,2018,-1349.51,-43.374
+No income group available,2019,-969.371,-32.227
+No income group available,2020,-521.295,-17.737

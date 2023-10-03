@@ -1,0 +1,65 @@
+Index,Source,Destination,Migrant Stock
+1,Africa,Africa,20 917 565
+,,Asia,1 207 631
+,,Europe, 648 455
+,,Caribbean, 13 714
+,,Central America, 2 089
+,,South America, 16 721
+,,North America, 53 563
+,,Oceania, 14 483
+2,Asia,Africa,4 720 103
+,,Asia,68 497 762
+,,Europe,7 169 630
+,,Caribbean,501
+,,Central America, 5 863
+,,South America, 408 294
+,,North America, 538 199
+,,Oceania, 101 725
+3,Europe,Africa,11 024 274
+,,Asia,23 203 976
+,,Europe,44 246 425
+,,Caribbean, 918 445
+,,Central America, 397 416
+,,South America,4 080 063
+,,North America,1 100 304
+,,Oceania, 397 036
+4,Caribbean,Africa, 2 976
+,,Asia, 25 433
+,,Europe, 178 358
+,,Caribbean, 859 403
+,,Central America, 14 137
+,,South America, 177 107
+,,North America, 242 478
+,,Oceania,526
+5,Central America,Africa, 2 402
+,,Asia, 74 274
+,,Europe, 104 038
+,,Caribbean, 51 844
+,,Central America, 743 476
+,,South America, 398 956
+,,North America, 878 451
+,,Oceania, 1 214
+6,South America,Africa, 43 413
+,,Asia, 302 662
+,,Europe,1 073 490
+,,Caribbean, 424 484
+,,Central America, 70 263
+,,South America,8 557 503
+,,North America, 172 124
+,,Oceania, 3 890
+7,North America,Africa,3 268 757
+,,Asia,17 549 235
+,,Europe,6 869 872
+,,Caribbean,6 798 694
+,,Central America,14 943 682
+,,South America,3 793 257
+,,North America,1 088 520
+,,Oceania, 343 625
+8,Oceania,Africa, 587 673
+,,Asia,4 050 511
+,,Europe,2 983 395
+,,Caribbean, 11 687
+,,Central America, 22 048
+,,South America, 180 834
+,,North America, 254 319
+,,Oceania,1 107 706
