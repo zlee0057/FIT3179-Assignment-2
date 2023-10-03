@@ -1,7 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Net Migration Rate (Per 1000 Population) of Countries From 2000 to 2020",
-    "width": 750,
+    "title": {
+        "text": "Net Migration Rate (Per 1000 Population) of Countries From 2000 to 2020",
+        "fontSize": 16
+    },
+    "width": 840,
     "height": 500,
     "params": [
         {
@@ -86,5 +89,7 @@
             }
         }
     ],
-    "config": {}
+    "config": {
+        "legend": {"orient": "top-left"}
+    }
 }
