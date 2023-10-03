@@ -94,14 +94,13 @@
     var specVis2 = "./multiple_line_chart.vg.json";
     var specVis3 = "./multiple_line_chart(2).vg.json";
 
-    vegaEmbed('#vis1', specVis1, { "actions": false });
+    vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
+    }).catch(console.error);
 
     vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
     vegaEmbed('#vis3', specVis3, { "actions": false }).then(function (result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
   </script>
