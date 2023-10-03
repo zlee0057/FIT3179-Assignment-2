@@ -10,7 +10,12 @@
       {
         "name": "rawData",
         "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/migrant_stock_region_data_2020_cleaned.csv",
-        "format": {"type": "csv", "parse": "auto"}
+        "format": {"type": "csv"},
+        "transform": [
+          {"type": "formula", "expr": "datum.Source", "as": "stk1"},
+          {"type": "formula", "expr": "datum.Destination", "as": "stk2"},
+          {"type": "formula", "expr": "datum['Migrant Flow']", "as": "size"}
+        ]
       },
       {
         "name": "nodes",
