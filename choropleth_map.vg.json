@@ -42,7 +42,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Week-10-Homework/main/Choropleth_map/data/country_data_2000_2020.csv",
+                "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/Choropleth_map/data/country_data_2000_2020_cleaned.csv",
                 "format": {"type": "csv"}
             },
             "transform": [

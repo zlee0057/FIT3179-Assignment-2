@@ -1,0 +1,148 @@
+Location,Time,NetMigrations,CNMR
+More developed regions,2000,3040.843,2.559
+More developed regions,2001,2594.816,2.176
+More developed regions,2002,3220.387,2.693
+More developed regions,2003,3308.184,2.757
+More developed regions,2004,3388.812,2.814
+More developed regions,2005,3234.956,2.676
+More developed regions,2006,3359.828,2.769
+More developed regions,2007,3965.03,3.254
+More developed regions,2008,3599.259,2.94
+More developed regions,2009,3063.954,2.492
+More developed regions,2010,2733.75,2.214
+More developed regions,2011,3084.053,2.489
+More developed regions,2012,3102.586,2.494
+More developed regions,2013,2877.641,2.305
+More developed regions,2014,2771.976,2.213
+More developed regions,2015,3168.906,2.522
+More developed regions,2016,3564.701,2.827
+More developed regions,2017,3629.158,2.869
+More developed regions,2018,3679.582,2.9
+More developed regions,2019,3801.083,2.988
+More developed regions,2020,2551.098,2.001
+Less developed regions,2000,-3040.834,-0.613
+Less developed regions,2001,-2594.809,-0.515
+Less developed regions,2002,-3220.383,-0.629
+Less developed regions,2003,-3308.18,-0.637
+Less developed regions,2004,-3388.808,-0.643
+Less developed regions,2005,-3234.951,-0.605
+Less developed regions,2006,-3359.821,-0.619
+Less developed regions,2007,-3965.026,-0.72
+Less developed regions,2008,-3599.244,-0.644
+Less developed regions,2009,-3063.941,-0.54
+Less developed regions,2010,-2733.745,-0.475
+Less developed regions,2011,-3084.047,-0.529
+Less developed regions,2012,-3102.536,-0.524
+Less developed regions,2013,-2877.625,-0.479
+Less developed regions,2014,-2771.954,-0.455
+Less developed regions,2015,-3168.885,-0.514
+Less developed regions,2016,-3564.684,-0.57
+Less developed regions,2017,-3629.147,-0.573
+Less developed regions,2018,-3679.571,-0.574
+Less developed regions,2019,-3801.073,-0.585
+Less developed regions,2020,-2551.091,-0.389
+Least developed countries,2000,-2263.0,-3.412
+Least developed countries,2001,-1307.434,-1.926
+Least developed countries,2002,22.652,0.033
+Least developed countries,2003,-1040.429,-1.456
+Least developed countries,2004,-1609.557,-2.197
+Least developed countries,2005,-1249.139,-1.664
+Least developed countries,2006,-1994.618,-2.593
+Least developed countries,2007,-2646.325,-3.359
+Least developed countries,2008,-2159.901,-2.68
+Least developed countries,2009,-1935.42,-2.347
+Least developed countries,2010,-1589.898,-1.883
+Least developed countries,2011,-1132.357,-1.309
+Least developed countries,2012,-1251.611,-1.412
+Least developed countries,2013,-970.119,-1.069
+Least developed countries,2014,-1135.715,-1.221
+Least developed countries,2015,-1333.828,-1.4
+Least developed countries,2016,-476.045,-0.488
+Least developed countries,2017,-891.463,-0.892
+Least developed countries,2018,-1047.509,-1.023
+Least developed countries,2019,-926.235,-0.883
+Least developed countries,2020,96.67,0.09
+"Less developed regions, excluding least developed countries",2000,-777.834,-0.181
+"Less developed regions, excluding least developed countries",2001,-1287.375,-0.295
+"Less developed regions, excluding least developed countries",2002,-3243.035,-0.734
+"Less developed regions, excluding least developed countries",2003,-2267.751,-0.506
+"Less developed regions, excluding least developed countries",2004,-1779.251,-0.392
+"Less developed regions, excluding least developed countries",2005,-1985.812,-0.432
+"Less developed regions, excluding least developed countries",2006,-1365.203,-0.293
+"Less developed regions, excluding least developed countries",2007,-1318.701,-0.279
+"Less developed regions, excluding least developed countries",2008,-1439.343,-0.301
+"Less developed regions, excluding least developed countries",2009,-1128.521,-0.233
+"Less developed regions, excluding least developed countries",2010,-1143.847,-0.233
+"Less developed regions, excluding least developed countries",2011,-1951.69,-0.393
+"Less developed regions, excluding least developed countries",2012,-1850.925,-0.368
+"Less developed regions, excluding least developed countries",2013,-1907.506,-0.374
+"Less developed regions, excluding least developed countries",2014,-1636.239,-0.317
+"Less developed regions, excluding least developed countries",2015,-1835.057,-0.352
+"Less developed regions, excluding least developed countries",2016,-3088.639,-0.585
+"Less developed regions, excluding least developed countries",2017,-2737.684,-0.513
+"Less developed regions, excluding least developed countries",2018,-2632.062,-0.488
+"Less developed regions, excluding least developed countries",2019,-2874.838,-0.528
+"Less developed regions, excluding least developed countries",2020,-2647.761,-0.482
+"Less developed regions, excluding China",2000,-2546.591,-0.694
+"Less developed regions, excluding China",2001,-2158.658,-0.578
+"Less developed regions, excluding China",2002,-2786.96,-0.732
+"Less developed regions, excluding China",2003,-2823.754,-0.729
+"Less developed regions, excluding China",2004,-2963.203,-0.751
+"Less developed regions, excluding China",2005,-2735.457,-0.681
+"Less developed regions, excluding China",2006,-2907.446,-0.712
+"Less developed regions, excluding China",2007,-3562.727,-0.857
+"Less developed regions, excluding China",2008,-3161.365,-0.748
+"Less developed regions, excluding China",2009,-2740.38,-0.637
+"Less developed regions, excluding China",2010,-2544.929,-0.582
+"Less developed regions, excluding China",2011,-3008.878,-0.677
+"Less developed regions, excluding China",2012,-3055.046,-0.676
+"Less developed regions, excluding China",2013,-2804.586,-0.61
+"Less developed regions, excluding China",2014,-2634.827,-0.564
+"Less developed regions, excluding China",2015,-3065.131,-0.646
+"Less developed regions, excluding China",2016,-3449.988,-0.716
+"Less developed regions, excluding China",2017,-3486.78,-0.713
+"Less developed regions, excluding China",2018,-3420.511,-0.689
+"Less developed regions, excluding China",2019,-3535.045,-0.702
+"Less developed regions, excluding China",2020,-2552.276,-0.5
+Land-locked Developing Countries (LLDC),2000,-1836.286,-5.451
+Land-locked Developing Countries (LLDC),2001,-945.212,-2.752
+Land-locked Developing Countries (LLDC),2002,684.237,1.949
+Land-locked Developing Countries (LLDC),2003,-134.848,-0.374
+Land-locked Developing Countries (LLDC),2004,-846.581,-2.291
+Land-locked Developing Countries (LLDC),2005,-482.898,-1.277
+Land-locked Developing Countries (LLDC),2006,-626.732,-1.619
+Land-locked Developing Countries (LLDC),2007,-1731.378,-4.366
+Land-locked Developing Countries (LLDC),2008,-502.229,-1.24
+Land-locked Developing Countries (LLDC),2009,-694.403,-1.673
+Land-locked Developing Countries (LLDC),2010,-758.504,-1.784
+Land-locked Developing Countries (LLDC),2011,-377.782,-0.867
+Land-locked Developing Countries (LLDC),2012,-791.099,-1.772
+Land-locked Developing Countries (LLDC),2013,-843.358,-1.844
+Land-locked Developing Countries (LLDC),2014,-1064.044,-2.272
+Land-locked Developing Countries (LLDC),2015,-1355.009,-2.827
+Land-locked Developing Countries (LLDC),2016,-1033.415,-2.108
+Land-locked Developing Countries (LLDC),2017,-1068.994,-2.131
+Land-locked Developing Countries (LLDC),2018,-655.971,-1.278
+Land-locked Developing Countries (LLDC),2019,-400.129,-0.762
+Land-locked Developing Countries (LLDC),2020,278.095,0.517
+Small Island Developing States (SIDS),2000,-123.483,-2.137
+Small Island Developing States (SIDS),2001,-131.539,-2.247
+Small Island Developing States (SIDS),2002,-139.092,-2.347
+Small Island Developing States (SIDS),2003,-118.232,-1.971
+Small Island Developing States (SIDS),2004,-93.611,-1.541
+Small Island Developing States (SIDS),2005,-22.962,-0.373
+Small Island Developing States (SIDS),2006,73.811,1.185
+Small Island Developing States (SIDS),2007,68.312,1.081
+Small Island Developing States (SIDS),2008,54.187,0.845
+Small Island Developing States (SIDS),2009,47.194,0.726
+Small Island Developing States (SIDS),2010,-50.519,-0.767
+Small Island Developing States (SIDS),2011,-100.156,-1.502
+Small Island Developing States (SIDS),2012,-59.604,-0.884
+Small Island Developing States (SIDS),2013,-54.134,-0.794
+Small Island Developing States (SIDS),2014,-57.391,-0.832
+Small Island Developing States (SIDS),2015,-97.48,-1.397
+Small Island Developing States (SIDS),2016,-103.349,-1.466
+Small Island Developing States (SIDS),2017,-103.567,-1.455
+Small Island Developing States (SIDS),2018,4.422,0.062
+Small Island Developing States (SIDS),2019,-149.096,-2.053
+Small Island Developing States (SIDS),2020,-98.658,-1.348
