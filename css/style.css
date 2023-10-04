@@ -33,10 +33,6 @@ body {
     padding-top: 35px;
 }
 
-.vis-container {
-    max-width: 100%;
-}
-
 .item1 { grid-area: header; }
 .item2 { grid-area: vis1; }
 .item3 { grid-area: desc1; }
@@ -45,6 +41,7 @@ body {
 .item6 { grid-area: vis3; }
 .item7 { grid-area: desc3; }
 .item8 { grid-area: vis4; }
+.item9 { grid-area: vis5; }
 .itemLast { grid-area: footer; }
 
 .vega-bind {
@@ -60,6 +57,7 @@ body {
     'desc2 desc2 desc2 vis3 vis3 vis3 vis3'
     'desc3 desc3 desc3 desc3 desc3 desc3 desc3'
     'vis4 vis4 vis4 vis4 vis4 vis4 vis4'
+    'vis5 vis5 vis5 vis5 vis5 vis5 vis5'
     'footer footer footer footer footer footer footer';
   gap: 30px;
   padding: 10px;

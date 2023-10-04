@@ -2,7 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
         "text": "World Migrant Stock (2020)",
-        "fontSize": 18
+        "fontSize": 18,
+        "anchor": "middle"
       },
     "description": "A population pyramid for the US in 2000.",
     "data": { "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/migrant_stock_gender_data_2020.csv"},
@@ -10,7 +11,7 @@
     "hconcat": [
         {
             "height": 500,
-            "width": 300,
+            "width": 412,
             "transform": [
                 {
                     "filter": {"field": "Gender", "equal": "Female"}
@@ -24,9 +25,12 @@
                 },
                 "x": {
                     "aggregate": "sum", "field": "migrantStock",
-                    "title": "population",
+                    "title": "Population",
                     "axis": {"format": "s"},
-                    "sort": "descending"
+                    "sort": "descending",
+                    "scale": {
+                        "domain": [0, 18000000]
+                    }
                 },
                 "color": {
                     "field": "Gender",
@@ -54,7 +58,7 @@
         }, 
         {
             "height": 500,
-            "width": 300,
+            "width": 412,
             "transform": [{
                 "filter": {"field": "Gender", "equal": "Male"}
             }],
@@ -67,8 +71,11 @@
                 },
                 "x": {
                     "aggregate": "sum", "field": "migrantStock",
-                    "title": "population",
-                    "axis": {"format": "s"}
+                    "title": "Population",
+                    "axis": {"format": "s"},
+                    "scale": {
+                        "domain": [0, 18000000]
+                    }
                 },
                 "color": {
                     "field": "Gender",
