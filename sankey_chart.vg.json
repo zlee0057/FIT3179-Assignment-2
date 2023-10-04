@@ -350,7 +350,7 @@
         "encode": {
           "enter": {
             "stroke": {"value": "#000"},
-            "strokeWidth": {"value": 2},
+            "strokeWidth": {"value": 0.5},
             "width": {"scale": "x", "band": 1},
             "x": {"scale": "x", "field": "stack"},
             "y": {"field": "y0", "scale": "y"},
