@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/income_group_data_2000_2020_cleaned.csv"},
     "width": 330,
-    "height": 190,
+    "height": 220,
     "title": {
         "text": "Migration Flow by Income Group (2000-2020)",
         "fontSize": 18

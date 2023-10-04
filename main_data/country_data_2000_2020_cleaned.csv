@@ -244,7 +244,7 @@ REU,Réunion,2010,-4.79,-5.367
 REU,Réunion,2011,-4.54,-5.051
 REU,Réunion,2012,-6.811,-7.521
 REU,Réunion,2013,-5.738,-6.307
-REU,Réunion,2014,0.0,0.0
+REU,Réunion,2014,0,0
 REU,Réunion,2015,-6.15,-6.644
 REU,Réunion,2016,-6.712,-7.218
 REU,Réunion,2017,-1.358,-1.455
@@ -565,7 +565,7 @@ GNQ,Equatorial Guinea,2016,17.109,12.304
 GNQ,Equatorial Guinea,2017,16.395,11.365
 GNQ,Equatorial Guinea,2018,15.583,10.428
 GNQ,Equatorial Guinea,2019,14.695,9.507
-GNQ,Equatorial Guinea,2020,0.0,0.0
+GNQ,Equatorial Guinea,2020,0,0
 GAB,Gabon,2000,3.086,2.427
 GAB,Gabon,2001,3.802,2.914
 GAB,Gabon,2002,4.579,3.418
@@ -607,7 +607,7 @@ STP,Sao Tome and Principe,2016,-1.786,-8.691
 STP,Sao Tome and Principe,2017,-1.775,-8.497
 STP,Sao Tome and Principe,2018,-1.758,-8.284
 STP,Sao Tome and Principe,2019,-1.718,-7.974
-STP,Sao Tome and Principe,2020,0.0,0.0
+STP,Sao Tome and Principe,2020,0,0
 DZA,Algeria,2000,-18.994,-0.617
 DZA,Algeria,2001,-25.798,-0.826
 DZA,Algeria,2002,-36.255,-1.146
@@ -781,7 +781,7 @@ SWZ,Eswatini,2001,-6.832,-6.539
 SWZ,Eswatini,2002,-7.036,-6.674
 SWZ,Eswatini,2003,-7.327,-6.896
 SWZ,Eswatini,2004,-7.656,-7.157
-SWZ,Eswatini,2005,-8.0,-7.435
+SWZ,Eswatini,2005,-8,-7.435
 SWZ,Eswatini,2006,-8.136,-7.521
 SWZ,Eswatini,2007,-7.997,-7.35
 SWZ,Eswatini,2008,-10.009,-9.141
@@ -937,7 +937,7 @@ CIV,Côte d'Ivoire,2010,-138.26,-6.524
 CIV,Côte d'Ivoire,2011,-156.846,-7.247
 CIV,Côte d'Ivoire,2012,-144.173,-6.528
 CIV,Côte d'Ivoire,2013,-148.501,-6.587
-CIV,Côte d'Ivoire,2014,-23.011,-1.0
+CIV,Côte d'Ivoire,2014,-23.011,-1
 CIV,Côte d'Ivoire,2015,-21.498,-0.911
 CIV,Côte d'Ivoire,2016,-20.148,-0.832
 CIV,Côte d'Ivoire,2017,-18.758,-0.754
@@ -1359,11 +1359,11 @@ HKG,"China, Hong Kong SAR",2012,36.188,5.012
 HKG,"China, Hong Kong SAR",2013,24.76,3.397
 HKG,"China, Hong Kong SAR",2014,22.372,3.046
 HKG,"China, Hong Kong SAR",2015,13.061,1.765
-HKG,"China, Hong Kong SAR",2016,0.0,0.0
-HKG,"China, Hong Kong SAR",2017,0.0,0.0
-HKG,"China, Hong Kong SAR",2018,0.0,0.0
-HKG,"China, Hong Kong SAR",2019,0.0,0.0
-HKG,"China, Hong Kong SAR",2020,0.0,0.0
+HKG,"China, Hong Kong SAR",2016,0,0
+HKG,"China, Hong Kong SAR",2017,0,0
+HKG,"China, Hong Kong SAR",2018,0,0
+HKG,"China, Hong Kong SAR",2019,0,0
+HKG,"China, Hong Kong SAR",2020,0,0
 MAC,"China, Macao SAR",2000,4.134,9.621
 MAC,"China, Macao SAR",2001,6.581,15.103
 MAC,"China, Macao SAR",2002,11.276,25.399
@@ -1468,7 +1468,7 @@ MNG,Mongolia,2016,7.47,2.469
 MNG,Mongolia,2017,10.802,3.496
 MNG,Mongolia,2018,11.426,3.619
 MNG,Mongolia,2019,10.664,3.306
-MNG,Mongolia,2020,0.0,0.0
+MNG,Mongolia,2020,0,0
 KOR,Republic of Korea,2000,-72.624,-1.551
 KOR,Republic of Korea,2001,-26.859,-0.571
 KOR,Republic of Korea,2002,-13.515,-0.286
@@ -1489,7 +1489,7 @@ KOR,Republic of Korea,2016,102.075,1.992
 KOR,Republic of Korea,2017,112.523,2.187
 KOR,Republic of Korea,2018,118.642,2.299
 KOR,Republic of Korea,2019,110.799,2.142
-KOR,Republic of Korea,2020,0.0,0.0
+KOR,Republic of Korea,2020,0,0
 AFG,Afghanistan,2000,-1007.135,-50.229
 AFG,Afghanistan,2001,-192.286,-9.717
 AFG,Afghanistan,2002,1327.074,65.242
@@ -1498,7 +1498,7 @@ AFG,Afghanistan,2004,-248.616,-10.498
 AFG,Afghanistan,2005,252.185,10.383
 AFG,Afghanistan,2006,62.684,2.466
 AFG,Afghanistan,2007,-942.887,-35.743
-AFG,Afghanistan,2008,221.0,8.401
+AFG,Afghanistan,2008,221,8.401
 AFG,Afghanistan,2009,-58.881,-2.147
 AFG,Afghanistan,2010,-141.355,-5.001
 AFG,Afghanistan,2011,418.796,14.42
@@ -1919,7 +1919,7 @@ ARM,Armenia,2005,-31.023,-10.129
 ARM,Armenia,2006,-31.302,-10.295
 ARM,Armenia,2007,-31.53,-10.437
 ARM,Armenia,2008,-31.822,-10.608
-ARM,Armenia,2009,-32.0,-10.732
+ARM,Armenia,2009,-32,-10.732
 ARM,Armenia,2010,-31.991,-10.801
 ARM,Armenia,2011,-29.214,-9.924
 ARM,Armenia,2012,-28.731,-9.806
@@ -2597,7 +2597,7 @@ GGY,Guernsey,2011,0.101,1.658
 GGY,Guernsey,2012,0.131,2.144
 GGY,Guernsey,2013,0.104,1.696
 GGY,Guernsey,2014,0.069,1.122
-GGY,Guernsey,2015,0.0,0.0
+GGY,Guernsey,2015,0,0
 GGY,Guernsey,2016,-0.16,-2.595
 GGY,Guernsey,2017,0.191,3.106
 GGY,Guernsey,2018,0.429,6.955
@@ -2677,7 +2677,7 @@ JEY,Jersey,2007,0.68,7.334
 JEY,Jersey,2008,0.669,7.132
 JEY,Jersey,2009,0.65,6.852
 JEY,Jersey,2010,0.655,6.832
-JEY,Jersey,2011,0.0,0.0
+JEY,Jersey,2011,0,0
 JEY,Jersey,2012,0.49,5.043
 JEY,Jersey,2013,0.889,9.076
 JEY,Jersey,2014,0.474,4.781
@@ -2918,27 +2918,27 @@ GRC,Greece,2017,-25.061,-2.341
 GRC,Greece,2018,-23.6,-2.217
 GRC,Greece,2019,-21.581,-2.039
 GRC,Greece,2020,-17.853,-1.697
-VAT,Holy See,2000,0.0,0.0
-VAT,Holy See,2001,0.0,0.0
-VAT,Holy See,2002,0.0,0.0
-VAT,Holy See,2003,0.0,0.0
-VAT,Holy See,2004,0.0,0.0
-VAT,Holy See,2005,0.0,0.0
-VAT,Holy See,2006,0.0,0.0
-VAT,Holy See,2007,0.0,0.0
-VAT,Holy See,2008,0.0,0.0
-VAT,Holy See,2009,0.0,0.0
-VAT,Holy See,2010,0.0,0.0
-VAT,Holy See,2011,0.0,0.0
-VAT,Holy See,2012,0.0,0.0
-VAT,Holy See,2013,0.0,0.0
-VAT,Holy See,2014,0.0,0.0
-VAT,Holy See,2015,0.0,0.0
-VAT,Holy See,2016,0.0,0.0
-VAT,Holy See,2017,0.0,0.0
-VAT,Holy See,2018,0.0,0.0
-VAT,Holy See,2019,0.0,0.0
-VAT,Holy See,2020,0.0,0.0
+VAT,Holy See,2000,0,0
+VAT,Holy See,2001,0,0
+VAT,Holy See,2002,0,0
+VAT,Holy See,2003,0,0
+VAT,Holy See,2004,0,0
+VAT,Holy See,2005,0,0
+VAT,Holy See,2006,0,0
+VAT,Holy See,2007,0,0
+VAT,Holy See,2008,0,0
+VAT,Holy See,2009,0,0
+VAT,Holy See,2010,0,0
+VAT,Holy See,2011,0,0
+VAT,Holy See,2012,0,0
+VAT,Holy See,2013,0,0
+VAT,Holy See,2014,0,0
+VAT,Holy See,2015,0,0
+VAT,Holy See,2016,0,0
+VAT,Holy See,2017,0,0
+VAT,Holy See,2018,0,0
+VAT,Holy See,2019,0,0
+VAT,Holy See,2020,0,0
 ITA,Italy,2000,49.166,0.863
 ITA,Italy,2001,47.084,0.826
 ITA,Italy,2002,222.527,3.904
@@ -3013,7 +3013,7 @@ MNE,Montenegro,2007,-2.903,-4.582
 MNE,Montenegro,2008,-3.191,-5.038
 MNE,Montenegro,2009,-3.268,-5.161
 MNE,Montenegro,2010,-2.017,-3.192
-MNE,Montenegro,2011,0.0,0.0
+MNE,Montenegro,2011,0,0
 MNE,Montenegro,2012,-0.634,-1.001
 MNE,Montenegro,2013,-0.993,-1.565
 MNE,Montenegro,2014,-1.742,-2.742
@@ -3041,7 +3041,7 @@ MKD,North Macedonia,2014,-1.597,-0.758
 MKD,North Macedonia,2015,-1.378,-0.654
 MKD,North Macedonia,2016,-1.164,-0.551
 MKD,North Macedonia,2017,-1.018,-0.482
-MKD,North Macedonia,2018,-1.0,-0.473
+MKD,North Macedonia,2018,-1,-0.473
 MKD,North Macedonia,2019,-0.987,-0.467
 MKD,North Macedonia,2020,-0.486,-0.23
 PRT,Portugal,2000,63.195,6.153
@@ -3349,7 +3349,7 @@ AIA,Anguilla,2007,0.1,8.02
 AIA,Anguilla,2008,0.104,8.206
 AIA,Anguilla,2009,0.113,8.771
 AIA,Anguilla,2010,0.123,9.388
-AIA,Anguilla,2011,0.0,0.0
+AIA,Anguilla,2011,0,0
 AIA,Anguilla,2012,0.022,1.637
 AIA,Anguilla,2013,0.276,20.354
 AIA,Anguilla,2014,0.402,28.903
@@ -3376,10 +3376,10 @@ ATG,Antigua and Barbuda,2013,0.156,1.765
 ATG,Antigua and Barbuda,2014,0.108,1.211
 ATG,Antigua and Barbuda,2015,0.06,0.667
 ATG,Antigua and Barbuda,2016,0.016,0.177
-ATG,Antigua and Barbuda,2017,0.0,0.0
-ATG,Antigua and Barbuda,2018,0.0,0.0
-ATG,Antigua and Barbuda,2019,0.0,0.0
-ATG,Antigua and Barbuda,2020,0.0,0.0
+ATG,Antigua and Barbuda,2017,0,0
+ATG,Antigua and Barbuda,2018,0,0
+ATG,Antigua and Barbuda,2019,0,0
+ATG,Antigua and Barbuda,2020,0,0
 ABW,Aruba,2000,1.235,13.964
 ABW,Aruba,2001,0.56,6.195
 ABW,Aruba,2002,0.35,3.822
@@ -3400,7 +3400,7 @@ ABW,Aruba,2016,0.17,1.621
 ABW,Aruba,2017,0.218,2.069
 ABW,Aruba,2018,0.367,3.47
 ABW,Aruba,2019,0.412,3.879
-ABW,Aruba,2020,0.0,0.0
+ABW,Aruba,2020,0,0
 BHS,Bahamas,2000,0.843,2.597
 BHS,Bahamas,2001,0.293,0.889
 BHS,Bahamas,2002,0.634,1.901
@@ -3421,7 +3421,7 @@ BHS,Bahamas,2016,1.001,2.532
 BHS,Bahamas,2017,1.001,2.512
 BHS,Bahamas,2018,1.001,2.494
 BHS,Bahamas,2019,1.001,2.477
-BHS,Bahamas,2020,0.0,0.0
+BHS,Bahamas,2020,0,0
 BRB,Barbados,2000,-0.833,-3.144
 BRB,Barbados,2001,-0.103,-0.388
 BRB,Barbados,2002,-0.121,-0.454
@@ -3442,7 +3442,7 @@ BRB,Barbados,2016,-0.065,-0.233
 BRB,Barbados,2017,-0.065,-0.233
 BRB,Barbados,2018,-0.065,-0.232
 BRB,Barbados,2019,-0.065,-0.232
-BRB,Barbados,2020,0.0,0.0
+BRB,Barbados,2020,0,0
 BES,"Bonaire, Sint Eustatius and Saba",2000,0.057,4.094
 BES,"Bonaire, Sint Eustatius and Saba",2001,0.291,20.67
 BES,"Bonaire, Sint Eustatius and Saba",2002,0.537,37.11
@@ -3474,7 +3474,7 @@ VGB,British Virgin Islands,2006,0.709,29.622
 VGB,British Virgin Islands,2007,0.741,29.892
 VGB,British Virgin Islands,2008,0.801,31.203
 VGB,British Virgin Islands,2009,0.763,28.689
-VGB,British Virgin Islands,2010,0.0,0.0
+VGB,British Virgin Islands,2010,0,0
 VGB,British Virgin Islands,2011,0.562,20.299
 VGB,British Virgin Islands,2012,0.122,4.304
 VGB,British Virgin Islands,2013,0.164,5.739
@@ -3559,7 +3559,7 @@ DMA,Dominica,2007,-0.332,-4.816
 DMA,Dominica,2008,-0.347,-5.032
 DMA,Dominica,2009,-0.228,-3.31
 DMA,Dominica,2010,-0.243,-3.529
-DMA,Dominica,2011,0.0,0.0
+DMA,Dominica,2011,0,0
 DMA,Dominica,2012,0.158,2.296
 DMA,Dominica,2013,-0.445,-6.446
 DMA,Dominica,2014,1.445,21.052
@@ -3610,7 +3610,7 @@ GRD,Grenada,2016,-0.19,-1.583
 GRD,Grenada,2017,-0.19,-1.57
 GRD,Grenada,2018,-0.19,-1.558
 GRD,Grenada,2019,-0.19,-1.547
-GRD,Grenada,2020,0.0,0.0
+GRD,Grenada,2020,0,0
 GLP,Guadeloupe,2000,-7.468,-17.456
 GLP,Guadeloupe,2001,-8.042,-18.912
 GLP,Guadeloupe,2002,-8.417,-19.95
@@ -3631,7 +3631,7 @@ GLP,Guadeloupe,2016,-2.792,-6.994
 GLP,Guadeloupe,2017,-2.268,-5.697
 GLP,Guadeloupe,2018,-2.119,-5.333
 GLP,Guadeloupe,2019,-2.057,-5.188
-GLP,Guadeloupe,2020,0.0,0.0
+GLP,Guadeloupe,2020,0,0
 HTI,Haiti,2000,-27.098,-3.236
 HTI,Haiti,2001,-26.837,-3.148
 HTI,Haiti,2002,-26.642,-3.071
@@ -3673,7 +3673,7 @@ JAM,Jamaica,2016,-11.329,-4.035
 JAM,Jamaica,2017,-11.329,-4.027
 JAM,Jamaica,2018,-11.329,-4.022
 JAM,Jamaica,2019,-11.329,-4.018
-JAM,Jamaica,2020,0.0,0.0
+JAM,Jamaica,2020,0,0
 MTQ,Martinique,2000,-6.859,-15.733
 MTQ,Martinique,2001,-7.483,-17.282
 MTQ,Martinique,2002,-7.584,-17.672
@@ -3688,7 +3688,7 @@ MTQ,Martinique,2010,-4.624,-11.718
 MTQ,Martinique,2011,-4.966,-12.664
 MTQ,Martinique,2012,-4.319,-11.096
 MTQ,Martinique,2013,-3.767,-9.742
-MTQ,Martinique,2014,0.0,0.0
+MTQ,Martinique,2014,0,0
 MTQ,Martinique,2015,-4.395,-11.395
 MTQ,Martinique,2016,-4.08,-10.671
 MTQ,Martinique,2017,-3.266,-8.616
@@ -3706,7 +3706,7 @@ MSR,Montserrat,2007,0.059,12.458
 MSR,Montserrat,2008,0.063,13.17
 MSR,Montserrat,2009,0.075,15.514
 MSR,Montserrat,2010,0.077,15.736
-MSR,Montserrat,2011,0.0,0.0
+MSR,Montserrat,2011,0,0
 MSR,Montserrat,2012,0.057,11.515
 MSR,Montserrat,2013,0.031,6.205
 MSR,Montserrat,2014,0.072,14.349
@@ -3769,7 +3769,7 @@ KNA,Saint Kitts and Nevis,2007,-0.192,-4.075
 KNA,Saint Kitts and Nevis,2008,-0.174,-3.683
 KNA,Saint Kitts and Nevis,2009,-0.171,-3.61
 KNA,Saint Kitts and Nevis,2010,-0.16,-3.37
-KNA,Saint Kitts and Nevis,2011,0.0,0.0
+KNA,Saint Kitts and Nevis,2011,0,0
 KNA,Saint Kitts and Nevis,2012,-0.191,-3.994
 KNA,Saint Kitts and Nevis,2013,-0.191,-3.991
 KNA,Saint Kitts and Nevis,2014,-0.191,-3.989
@@ -3792,14 +3792,14 @@ LCA,Saint Lucia,2009,0.2,1.18
 LCA,Saint Lucia,2010,0.438,2.568
 LCA,Saint Lucia,2011,0.181,1.052
 LCA,Saint Lucia,2012,0.011,0.064
-LCA,Saint Lucia,2013,0.0,0.0
-LCA,Saint Lucia,2014,0.0,0.0
-LCA,Saint Lucia,2015,0.0,0.0
-LCA,Saint Lucia,2016,0.0,0.0
-LCA,Saint Lucia,2017,0.0,0.0
-LCA,Saint Lucia,2018,0.0,0.0
-LCA,Saint Lucia,2019,0.0,0.0
-LCA,Saint Lucia,2020,0.0,0.0
+LCA,Saint Lucia,2013,0,0
+LCA,Saint Lucia,2014,0,0
+LCA,Saint Lucia,2015,0,0
+LCA,Saint Lucia,2016,0,0
+LCA,Saint Lucia,2017,0,0
+LCA,Saint Lucia,2018,0,0
+LCA,Saint Lucia,2019,0,0
+LCA,Saint Lucia,2020,0,0
 MAF,Saint Martin (French part),2000,0.159,5.376
 MAF,Saint Martin (French part),2001,0.158,5.214
 MAF,Saint Martin (French part),2002,0.161,5.181
@@ -3853,7 +3853,7 @@ SXM,Sint Maarten (Dutch part),2007,0.063,1.965
 SXM,Sint Maarten (Dutch part),2008,0.027,0.833
 SXM,Sint Maarten (Dutch part),2009,0.023,0.703
 SXM,Sint Maarten (Dutch part),2010,-0.062,-1.876
-SXM,Sint Maarten (Dutch part),2011,0.0,0.0
+SXM,Sint Maarten (Dutch part),2011,0,0
 SXM,Sint Maarten (Dutch part),2012,2.953,87.909
 SXM,Sint Maarten (Dutch part),2013,1.609,43.818
 SXM,Sint Maarten (Dutch part),2014,0.901,23.352
@@ -3925,7 +3925,7 @@ VIR,United States Virgin Islands,2016,-0.526,-5.128
 VIR,United States Virgin Islands,2017,-0.471,-4.614
 VIR,United States Virgin Islands,2018,-0.458,-4.509
 VIR,United States Virgin Islands,2019,-0.458,-4.533
-VIR,United States Virgin Islands,2020,0.0,0.0
+VIR,United States Virgin Islands,2020,0,0
 BLZ,Belize,2000,1.678,7.003
 BLZ,Belize,2001,1.912,7.736
 BLZ,Belize,2002,1.977,7.753
@@ -3946,7 +3946,7 @@ BLZ,Belize,2016,1.283,3.499
 BLZ,Belize,2017,1.222,3.266
 BLZ,Belize,2018,1.185,3.106
 BLZ,Belize,2019,1.164,2.998
-BLZ,Belize,2020,0.0,0.0
+BLZ,Belize,2020,0,0
 CRI,Costa Rica,2000,13.59,3.421
 CRI,Costa Rica,2001,10.96,2.708
 CRI,Costa Rica,2002,8.929,2.169
@@ -4255,19 +4255,19 @@ GUF,French Guiana,2010,-0.372,-1.626
 GUF,French Guiana,2011,-0.051,-0.218
 GUF,French Guiana,2012,0.427,1.785
 GUF,French Guiana,2013,0.927,3.783
-GUF,French Guiana,2014,0.0,0.0
-GUF,French Guiana,2015,0.0,0.0
-GUF,French Guiana,2016,0.0,0.0
+GUF,French Guiana,2014,0,0
+GUF,French Guiana,2015,0,0
+GUF,French Guiana,2016,0,0
 GUF,French Guiana,2017,1.162,4.322
 GUF,French Guiana,2018,1.2,4.346
 GUF,French Guiana,2019,1.2,4.233
-GUF,French Guiana,2020,0.0,0.0
+GUF,French Guiana,2020,0,0
 GUY,Guyana,2000,-13.176,-17.212
 GUY,Guyana,2001,-13.06,-17.045
 GUY,Guyana,2002,-12.758,-16.643
 GUY,Guyana,2003,-12.523,-16.334
 GUY,Guyana,2004,-12.657,-16.509
-GUY,Guyana,2005,-13.0,-16.969
+GUY,Guyana,2005,-13,-16.969
 GUY,Guyana,2006,-13.328,-17.423
 GUY,Guyana,2007,-13.629,-17.856
 GUY,Guyana,2008,-13.886,-18.246
@@ -4404,7 +4404,7 @@ BMU,Bermuda,2012,-0.243,-3.817
 BMU,Bermuda,2013,-0.254,-3.991
 BMU,Bermuda,2014,-0.233,-3.672
 BMU,Bermuda,2015,-0.315,-4.976
-BMU,Bermuda,2016,0.0,0.0
+BMU,Bermuda,2016,0,0
 BMU,Bermuda,2017,0.227,3.595
 BMU,Bermuda,2018,0.306,4.827
 BMU,Bermuda,2019,0.29,4.555
@@ -4461,15 +4461,15 @@ SPM,Saint Pierre and Miquelon,2006,-0.019,-3.116
 SPM,Saint Pierre and Miquelon,2007,-0.011,-1.812
 SPM,Saint Pierre and Miquelon,2008,-0.01,-1.649
 SPM,Saint Pierre and Miquelon,2009,-0.005,-0.826
-SPM,Saint Pierre and Miquelon,2010,0.0,0.0
-SPM,Saint Pierre and Miquelon,2011,0.0,0.0
+SPM,Saint Pierre and Miquelon,2010,0,0
+SPM,Saint Pierre and Miquelon,2011,0,0
 SPM,Saint Pierre and Miquelon,2012,-0.012,-1.989
 SPM,Saint Pierre and Miquelon,2013,-0.005,-0.832
 SPM,Saint Pierre and Miquelon,2014,0.006,1.003
 SPM,Saint Pierre and Miquelon,2015,0.021,3.522
 SPM,Saint Pierre and Miquelon,2016,0.012,2.015
 SPM,Saint Pierre and Miquelon,2017,0.028,4.713
-SPM,Saint Pierre and Miquelon,2018,0.0,0.0
+SPM,Saint Pierre and Miquelon,2018,0,0
 SPM,Saint Pierre and Miquelon,2019,0.018,3.056
 SPM,Saint Pierre and Miquelon,2020,0.008,1.355
 USA,United States of America,2000,1479.676,5.252
@@ -4548,7 +4548,7 @@ FJI,Fiji,2009,-10.445,-11.522
 FJI,Fiji,2010,-10.666,-11.716
 FJI,Fiji,2011,-10.836,-11.86
 FJI,Fiji,2012,-10.945,-11.942
-FJI,Fiji,2013,-11.0,-11.97
+FJI,Fiji,2013,-11,-11.97
 FJI,Fiji,2014,-11.023,-11.968
 FJI,Fiji,2015,-11.047,-11.973
 FJI,Fiji,2016,-11.139,-12.058
@@ -4690,7 +4690,7 @@ MHL,Marshall Islands,2004,-1.627,-29.406
 MHL,Marshall Islands,2005,-1.637,-29.636
 MHL,Marshall Islands,2006,-1.647,-29.888
 MHL,Marshall Islands,2007,-1.662,-30.255
-MHL,Marshall Islands,2008,-1.641,-30.0
+MHL,Marshall Islands,2008,-1.641,-30
 MHL,Marshall Islands,2009,-1.544,-28.374
 MHL,Marshall Islands,2010,-1.415,-26.142
 MHL,Marshall Islands,2011,-1.901,-35.285
@@ -4912,7 +4912,7 @@ TKL,Tokelau,2016,-0.032,-22.063
 TKL,Tokelau,2017,0.118,82.587
 TKL,Tokelau,2018,0.119,76.295
 TKL,Tokelau,2019,0.113,66.637
-TKL,Tokelau,2020,0.0,0.0
+TKL,Tokelau,2020,0,0
 TON,Tonga,2000,-1.617,-15.636
 TON,Tonga,2001,-1.647,-15.832
 TON,Tonga,2002,-1.712,-16.354

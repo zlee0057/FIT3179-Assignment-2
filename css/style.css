@@ -43,7 +43,8 @@ body {
 .item4 { grid-area: vis2; }
 .item5 { grid-area: desc2; }
 .item6 { grid-area: vis3; }
-.item7 { grid-area: vis4; }
+.item7 { grid-area: desc3; }
+.item8 { grid-area: vis4; }
 .itemLast { grid-area: footer; }
 
 .vega-bind {
@@ -57,6 +58,7 @@ body {
     'vis1 vis1 vis1 vis1 vis1 vis1 vis1'
     'desc1 desc1 desc1 vis2 vis2 vis2 vis2'
     'desc2 desc2 desc2 vis3 vis3 vis3 vis3'
+    'desc3 desc3 desc3 desc3 desc3 desc3 desc3'
     'vis4 vis4 vis4 vis4 vis4 vis4 vis4'
     'footer footer footer footer footer footer footer';
   gap: 30px;
