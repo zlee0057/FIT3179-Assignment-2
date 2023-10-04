@@ -20,7 +20,7 @@
                 "color": {
                     "field": "Location", 
                     "type": "nominal",
-                    "title": "Development Groups",
+                    "title": "Development Groups (Countries)",
                     "scale": {
                         "domain": [
                             "More developed regions",
