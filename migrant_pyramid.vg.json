@@ -1,0 +1,95 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "Migrant Stock Pyramid (2020)",
+        "fontSize": 18,
+        "anchor": "middle"
+      },
+    "description": "A population pyramid for the US in 2000.",
+    "data": { "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/migrant_stock_gender_data_2020.csv"},
+    "spacing": 0,
+    "hconcat": [
+        {
+            "height": 320,
+            "width": 250,
+            "transform": [
+                {
+                    "filter": {"field": "Gender", "equal": "Female"}
+                }
+            ],
+            "title": "Female",
+            "mark": "bar",
+            "encoding": {
+                "y": {
+                    "field": "ageGroup", "axis": null, "sort": "ascending"
+                },
+                "x": {
+                    "aggregate": "sum", "field": "migrantStock",
+                    "title": "Population",
+                    "axis": {"format": "s"},
+                    "sort": "descending",
+                    "scale": {
+                        "domain": [0, 18000000]
+                    }
+                },
+                "color": {
+                    "field": "Gender",
+                    "scale": {"range": ["#675193", "#ca8861"]},
+                    "legend": null
+                },
+                "tooltip": [
+                    {"field": "Gender", "title": "Gender"},
+                    {"field": "migrantStock", "title": "Migrant Stock"}
+                ]
+            }
+        }, 
+        {
+            "height": 320,
+            "width": 40,
+            "view": {"stroke": null},
+            "mark": {
+                "type": "text",
+                "align": "center"
+            },
+            "encoding": {
+                "y": {"field": "ageGroup", "type": "nominal", "axis": null, "sort": null},
+                "text": {"field": "ageGroup", "type": "nominal"}
+            }
+        }, 
+        {
+            "height": 320,
+            "width": 250,
+            "transform": [{
+                "filter": {"field": "Gender", "equal": "Male"}
+            }],
+            "title": "Male",
+            "mark": "bar",
+            "encoding": {
+                "y": {
+                    "field": "ageGroup", "title": null,
+                    "axis": null, "sort": "ascending"
+                },
+                "x": {
+                    "aggregate": "sum", "field": "migrantStock",
+                    "title": "Population",
+                    "axis": {"format": "s"},
+                    "scale": {
+                        "domain": [0, 18000000]
+                    }
+                },
+                "color": {
+                    "field": "Gender",
+                    "legend": null
+                },
+                "tooltip": [
+                    {"field": "Gender", "title": "Gender"},
+                    {"field": "migrantStock", "title": "Migrant Stock"}
+                ]
+            }
+        }
+    ],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+}

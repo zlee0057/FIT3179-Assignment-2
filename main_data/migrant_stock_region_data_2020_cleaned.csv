@@ -1,65 +1,65 @@
-Index,Source,Destination,Value
-1,Africa,Africa,20917565
-,Africa,Asia,1207631
-,Africa,Europe,648455
-,Africa,Caribbean,13714
-,Africa,Central America,2089
-,Africa,South America,16721
-,Africa,North America,53563
-,Africa,Oceania,14483
-2,Asia,Africa,4720103
-,Asia,Asia,68497762
-,Asia,Europe,7169630
-,Asia,Caribbean,501
-,Asia,Central America,5863
-,Asia,South America,408294
-,Asia,North America,538199
-,Asia,Oceania,101725
-3,Europe,Africa,11024274
-,Europe,Asia,23203976
-,Europe,Europe,44246425
-,Europe,Caribbean,918445
-,Europe,Central America,397416
-,Europe,South America,4080063
-,Europe,North America,1100304
-,Europe,Oceania,397036
-4,Caribbean,Africa,2976
-,Caribbean,Asia,25433
-,Caribbean,Europe,178358
-,Caribbean,Caribbean,859403
-,Caribbean,Central America,14137
-,Caribbean,South America,177107
-,Caribbean,North America,242478
-,Caribbean,Oceania,526
-5,Central America,Africa,2402
-,Central America,Asia,74274
-,Central America,Europe,104038
-,Central America,Caribbean,51844
-,Central America,Central America,743476
-,Central America,South America,398956
-,Central America,North America,878451
-,Central America,Oceania,1214
-6,South America,Africa,43413
-,South America,Asia,302662
-,South America,Europe,1073490
-,South America,Caribbean,424484
-,South America,Central America,70263
-,South America,South America,8557503
-,South America,North America,172124
-,South America,Oceania,3890
-7,North America,Africa,3268757
-,North America,Asia,17549235
-,North America,Europe,6869872
-,North America,Caribbean,6798694
-,North America,Central America,14943682
-,North America,South America,3793257
-,North America,North America,1088520
-,North America,Oceania,343625
-8,Oceania,Africa,587673
-,Oceania,Asia,4050511
-,Oceania,Europe,2983395
-,Oceania,Caribbean,11687
-,Oceania,Central America,22048
-,Oceania,South America,180834
-,Oceania,North America,254319
-,Oceania,Oceania,1107706
+stk1,stk2,size
+Africa,Africa,20917565
+Africa,Asia,1207631
+Africa,Europe,648455
+Africa,Caribbean,13714
+Africa,Central America,2089
+Africa,South America,16721
+Africa,North America,53563
+Africa,Oceania,14483
+Asia,Africa,4720103
+Asia,Asia,68497762
+Asia,Europe,7169630
+Asia,Caribbean,501
+Asia,Central America,5863
+Asia,South America,408294
+Asia,North America,538199
+Asia,Oceania,101725
+Europe,Africa,11024274
+Europe,Asia,23203976
+Europe,Europe,44246425
+Europe,Caribbean,918445
+Europe,Central America,397416
+Europe,South America,4080063
+Europe,North America,1100304
+Europe,Oceania,397036
+Caribbean,Africa,2976
+Caribbean,Asia,25433
+Caribbean,Europe,178358
+Caribbean,Caribbean,859403
+Caribbean,Central America,14137
+Caribbean,South America,177107
+Caribbean,North America,242478
+Caribbean,Oceania,526
+Central America,Africa,2402
+Central America,Asia,74274
+Central America,Europe,104038
+Central America,Caribbean,51844
+Central America,Central America,743476
+Central America,South America,398956
+Central America,North America,878451
+Central America,Oceania,1214
+South America,Africa,43413
+South America,Asia,302662
+South America,Europe,1073490
+South America,Caribbean,424484
+South America,Central America,70263
+South America,South America,8557503
+South America,North America,172124
+South America,Oceania,3890
+North America,Africa,3268757
+North America,Asia,17549235
+North America,Europe,6869872
+North America,Caribbean,6798694
+North America,Central America,14943682
+North America,South America,3793257
+North America,North America,1088520
+North America,Oceania,343625
+Oceania,Africa,587673
+Oceania,Asia,4050511
+Oceania,Europe,2983395
+Oceania,Caribbean,11687
+Oceania,Central America,22048
+Oceania,South America,180834
+Oceania,North America,254319
+Oceania,Oceania,1107706

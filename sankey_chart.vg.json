@@ -3,7 +3,7 @@
     "height": 3000,
     "width": 800,
     "title": {
-      "text": "Regional Migrant Stock (2020)",
+      "text": "Estimates of Migration Flow Using Migrant Stock (2020)",
       "fontSize": 18
     },
     "data": [
@@ -350,7 +350,7 @@
         "encode": {
           "enter": {
             "stroke": {"value": "#000"},
-            "strokeWidth": {"value": 2},
+            "strokeWidth": {"value": 0.5},
             "width": {"scale": "x", "band": 1},
             "x": {"scale": "x", "field": "stack"},
             "y": {"field": "y0", "scale": "y"},
