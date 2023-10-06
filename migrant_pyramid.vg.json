@@ -39,6 +39,7 @@
                 },
                 "tooltip": [
                     {"field": "Gender", "title": "Gender"},
+                    {"field": "ageGroup", "title": "Age Group"},
                     {"field": "migrantStock", "title": "Migrant Stock"}
                 ]
             }
@@ -83,6 +84,7 @@
                 },
                 "tooltip": [
                     {"field": "Gender", "title": "Gender"},
+                    {"field": "ageGroup", "title": "Age Group"},
                     {"field": "migrantStock", "title": "Migrant Stock"}
                 ]
             }
