@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/main_data/developmental_group_data_2000_2020_cleaned.csv"},
-    "width": 330,
+    "width": 400,
     "height": 220,
     "title": {
         "text": "Migration Flow by Development Group (2000-2020)",
@@ -20,7 +20,7 @@
                 "color": {
                     "field": "Location", 
                     "type": "nominal",
-                    "title": "Development Groups (Countries)",
+                    "title": "Development Groups",
                     "scale": {
                         "domain": [
                             "More developed regions",
