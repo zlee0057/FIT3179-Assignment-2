@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.2.json",
-    "height": 3000,
+    "height": 2500,
     "width": 800,
     "title": {
       "text": "Estimates of Migration Flow Using Migrant Stock (2020)",
