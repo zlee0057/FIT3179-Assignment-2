@@ -58,6 +58,19 @@
     "layer": [
         {
             "data": {
+                "graticule": {
+                  "step": [15, 15]
+                }
+              },
+              "mark": {
+                "type": "geoshape",
+                "stroke": "#888",
+                "strokeOpacity": 0.45,
+                "strokeWidth": 0.3
+              }
+        },
+        {
+            "data": {
                 "url": "https://raw.githubusercontent.com/ExumZ/FIT3179-Assignment-2/main/Choropleth_map/js/ne_110m_admin_0_countries.topojson",
                 "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
             },
@@ -133,19 +146,6 @@
             "x": { "value": 20 },
             "y": { "value": 350 }
           }
-        },
-        {
-            "data": {
-                "graticule": {
-                  "step": [15, 15]
-                }
-              },
-              "mark": {
-                "type": "geoshape",
-                "stroke": "#888",
-                "strokeOpacity": 0.45,
-                "strokeWidth": 0.3
-              }
         }
     ],
     "config": {
